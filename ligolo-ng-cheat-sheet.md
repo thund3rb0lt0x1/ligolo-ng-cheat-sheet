@@ -1,4 +1,4 @@
-#🛡️ ligolo-ng Cheat Sheet
+# 🛡️ ligolo-ng Cheat Sheet
 
 External Interface: `10.1.1.10/24`  
 Internal Interface: `10.1.2.4/24`
