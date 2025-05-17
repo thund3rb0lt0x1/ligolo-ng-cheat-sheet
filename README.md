@@ -1,2 +1,2 @@
 # ligolo-ng-cheat-sheet
-A hands-on reference for setting up and using ligolo-ng effectively.
+🛡️ A concise and practical cheat sheet for using ligolo-ng in red team operations, including setup, tunneling, port forwarding, and pivoting techniques.
