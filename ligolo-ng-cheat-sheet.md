@@ -58,7 +58,7 @@ ip route add 240.0.0.1/32 dev ligolo
 nmap 240.0.0.1
 ```
 🔍 This will reveal open ports on the pivot machine, accessible via the ligolo tunnel.  
-🧹 Cleanup – Deleting the ligolo Interface (On Kali)
+## 🧹 Cleanup – Deleting the ligolo Interface (On Kali)
 10. Remove the TUN interface after you're done
 ```bash
 ip link set ligolo down
