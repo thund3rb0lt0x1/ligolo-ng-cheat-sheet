@@ -63,5 +63,7 @@ nmap 240.0.0.1
 ```bash
 ip link set ligolo down
 ip link delete ligolo
+OR
+interface_delete --name ligolo
 # Safely deletes the ligolo TUN interface from your Kali machine.
 ```
